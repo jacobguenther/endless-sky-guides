@@ -68,10 +68,10 @@ Land on the planets.
 
 ### Travel to Luna (Mystery Cubes 1)
 #### Where to find:
-Will be offered immediately after completing part 1.
+Will be offered immediately after completing part 0.
 
 #### Requirements:
-Combat rating of 35 which is slightly higher than rank 3.
+Completed part 0. Combat rating of 35 which is slightly higher than rank 3.
 
 #### Tips:
 None
@@ -112,7 +112,7 @@ Before jumping into Farpoint wait for your fleet to be with you and hold the 'J'
 
 ## Fetching Keystones
 #### Where to find:
-Spaceports in The Deep that arn't Epsilon Leonis.
+Spaceports in The Deep that aren't Epsilon Leonis.
 
 #### Requirements:
 Completed Mystery Cubes, Terminus Exploration, and made first contact with the Hai.
@@ -120,18 +120,30 @@ Completed Mystery Cubes, Terminus Exploration, and made first contact with the H
 #### Tips:
 None
 
+## Travel to Valhalla (Remnant: Keystone Research)
+#### Where to find:
+Spaceports in the Republic, Free Worlds, Syndicate, Neutral, or Independent Factions.
+
+#### Requirements 
+Completed Fetching Keystones.
+
+#### Tips:
+None
+
+
 ## Exploring the Unknown
 #### Where to find:
-Valhalla
+On Valhalla.
 
 #### Requirements:
-Completed Keystone Reasearch.
+Completed Keystone Research.
 
 #### Tips:
 None
 
 ## Analyze Remnant Ships
 #### Where to find:
+On Valhalla.
 
 #### Requirements:
 Completed Exploring the Unknown.
@@ -166,43 +178,53 @@ You just might be a terrible person.
 ## Deep Archaeology
 ### Deep Archaeology (Part 1)
 #### Where to find:
+Between 1 and 20 jumps from Miaplacidus in the systems that are catagorized as "paradise", "north", or "near earth".
 
 #### Requirements:
+Combat rating of 15(This is real low).
 
 #### Tips:
-
+None
 
 ### Deep Archaeology (Part 2)
 #### Where to find:
+Vinci
 
 #### Requirements:
+Completed Deep Archaeology 1.
 
 #### Tips:
-
+None
 
 ### Deep Archaeology (Part 3)
 #### Where to find:
+Vinci
 
 #### Requirements:
+Completed Deep Archaeology 2.
 
 #### Tips:
-
+None
 
 ### Deep Archaeology (Part 4)
 #### Where to find:
+Vinci
 
 #### Requirements:
+Completed Deep Archaeology 3.
 
 #### Tips:
-
+None
 
 ### Deep Archaeology (Part 5)
 #### Where to find:
+Midgard
 
 #### Requirements:
+Completed Deep Archaeology 4.
 
 #### Tips:
-
+None
 
 
 ## There Might Be Riots
@@ -265,16 +287,20 @@ There will be pirates in the Terminus system, they can be ignored, just go to th
 ## There Might Be Riots Final
 ### Find There Might Be Riots (TMBR 0)
 #### Where to find:
+Midgard
 
 #### Requirements:
+Completed Terminus Exploration and Transport Band to Allhome.
 
 #### Tips:
-None
+Where did you take them to last?
 
 ### Transport band to Midgard (TMBR 1)
 #### Where to find:
+Allhome
 
 #### Requirements:
+Completed Find There Might Be Riots
 
 #### Tips:
 None
@@ -294,19 +320,23 @@ None.
 
 ### Locate Missing Scientists
 #### Where to find:
+Spaceport
 
 #### Requirements:
+Wait about 2 months after completing Project Hawking, and completing/declining Remnant Research
 
 #### Tips:
-
+None
 
 ### Secure the Scientists
 #### Where to find:
 
+
 #### Requirements:
+Completed Locate Missing Scientists
 
 #### Tips:
-
+None
 
 
 ## Sad Archie
