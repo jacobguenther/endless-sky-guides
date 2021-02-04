@@ -82,7 +82,7 @@ None
 On Luna(Sol system). Will be offered immediately after completing part 1(Travel to Luna).
 
 #### Requirements:
-Part 1 is complete.
+Completed Part 1.
 
 #### Tips:
 Wait for your escorts to arrive in the system before landing you might want them in the system for part 3.
@@ -93,7 +93,7 @@ Wait for your escorts to arrive in the system before landing you might want them
 Will be offered immediately after completing part 2(Blockading the Devil).
 
 #### Requirements:
-Part 2 is complete.
+Completed Part 2.
 
 #### Tips:
 If you are having trouble with the fight fly away from it and let your escorts deal with it. Land on the planet after the battle.
@@ -104,166 +104,63 @@ If you are having trouble with the fight fly away from it and let your escorts d
 On Maelstrom. Will be offered immediately after completing part 3(Defend Maelstrom).
 
 #### Requirements:
-Part 3 is complete.
+Completed Part 3.
 
 #### Tips:
 Before jumping into Farpoint wait for your fleet to be with you and hold the 'J' key so your fleet jumps into the system together.
 
 
-
-## There Might Be Riots
-### Transport band to Wayfarer (There Might Be Riots Part 1)
-#### Where to find:
-Within 5 to 10 jumps from Tarazed
-
-#### Requirements:
-None
-
-#### Tips:
-None
-
-
-### Transport band to Prime (There Might Be Riots Part 2)
-#### Where to find:
-Any Syndicate system.
-
-#### Requirements:
-Complete There Might Be Riots 1, and Deep Archeaology 5.
-
-#### Tips:
-Check spaceports in syndicate space nearest to Betelgeuse so you don't have to tarvel so far.
-
-
-### Transport band to Pilot (There Might Be Riots Part 3A)
-#### Where to find:
-Systems in the Dirt Belt, South, or Rim.
-
-#### Requirements:
-Completed There Might Be Riots 2, and have found the Hai.
-
-#### Tips:
-Equip your ship with beam/lazer weapons so you can capture as many combat drones as possible.
-
-
-### Transport band to Allhome (There Might Be Riots Part 3B)
-#### Where to find:
-Given immediately after part 3A.
-
-#### Requirements:
-Completed part 3A.
-
-#### Tips:
-None
-
-
-
-## There Might Be Riots Final
-### Find There Might Be Riots (TMBR 0)
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-None
-
-### Transport band to Midgard (TMBR 1)
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-None
-
-
-
-## Scientists
-### Missing Drone (Terminus Exploration)
-#### Where to find:
-On the planets Memory(Zosma system), Haze(Dubhe system), Nifel(Gomeisa system).
-
-#### Requirements:
-Combat rating of 20 which is rank 3.
-
-#### Tips:
-There will be pirates in the Terminus system, they can be ignored, just go to the drone and recover it.
-
-
-### Research Supplies (Project Hawking)
-#### Where to find:
-At spaceports on planets in The Deep.
-
-#### Requirements:
-Completed Mystery Cubes.
-
-#### Tips:
-None.
-
-
-### Locate Missing Scientists
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-
-
-### Secure the Scientists
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-
-
 ## Fetching Keystones
 #### Where to find:
+Spaceports in The Deep that arn't Epsilon Leonis.
 
 #### Requirements:
+Completed Mystery Cubes, Terminus Exploration, and made first contact with the Hai.
 
 #### Tips:
+None
 
+## Exploring the Unknown
+#### Where to find:
+Valhalla
 
+#### Requirements:
+Completed Keystone Reasearch.
+
+#### Tips:
+None
+
+## Analyze Remnant Ships
+#### Where to find:
+
+#### Requirements:
+Completed Exploring the Unknown.
+
+#### Tips:
+None
 
 ## Remnant Technology
-### Travel to **Planet**
-#### Where to find:
 
-#### Requirements:
-
-#### Tips:
-
-
-### Exploring the Unknown
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-
-
-### Analyze Remnant Ships
-#### Where to find:
-
-#### Requirements:
-
-#### Tips:
-
+Can decline these missions at any time to continue with getting the City Ship License.
 
 ### Fetching Engines/Genorators/ a Cannon
 #### Where to find:
 
 #### Requirements:
+Completed Analyze Remnant Ships.
 
 #### Tips:
+What are you an arms dealer?
 
 
 ### Remnant Surveillance
 #### Where to find:
 
 #### Requirements:
+Completed Remnant Technology.
 
 #### Tips:
-
+You just might be a terrible person.
 
 
 ## Deep Archaeology
@@ -300,6 +197,110 @@ None.
 
 
 ### Deep Archaeology (Part 5)
+#### Where to find:
+
+#### Requirements:
+
+#### Tips:
+
+
+
+## There Might Be Riots
+### Transport band to Wayfarer (There Might Be Riots Part 1)
+#### Where to find:
+Within 5 to 10 jumps from Tarazed
+
+#### Requirements:
+None
+
+#### Tips:
+None
+
+
+### Transport band to Prime (There Might Be Riots Part 2)
+#### Where to find:
+Any Syndicate system.
+
+#### Requirements:
+Complete There Might Be Riots 1, and Deep Archaeology 5.
+
+#### Tips:
+Check spaceports in syndicate space nearest to Betelgeuse so you don't have to tarvel so far.
+
+
+### Transport band to Pilot (There Might Be Riots Part 3A)
+#### Where to find:
+Systems in the Dirt Belt, South, or Rim.
+
+#### Requirements:
+Completed There Might Be Riots 2, and have found the Hai.
+
+#### Tips:
+Equip your ship with beam/lazer weapons so you can capture as many combat drones as possible.
+
+
+### Transport band to Allhome (There Might Be Riots Part 3B)
+#### Where to find:
+Given immediately after part 3A.
+
+#### Requirements:
+Completed part 3A.
+
+#### Tips:
+None
+
+
+## Missing Drone (Terminus Exploration)
+#### Where to find:
+On the planets Memory(Zosma system), Haze(Dubhe system), Nifel(Gomeisa system).
+
+#### Requirements:
+Combat rating of 20 which is rank 3.
+
+#### Tips:
+There will be pirates in the Terminus system, they can be ignored, just go to the drone and recover it.
+
+
+
+## There Might Be Riots Final
+### Find There Might Be Riots (TMBR 0)
+#### Where to find:
+
+#### Requirements:
+
+#### Tips:
+None
+
+### Transport band to Midgard (TMBR 1)
+#### Where to find:
+
+#### Requirements:
+
+#### Tips:
+None
+
+
+
+### Research Supplies (Project Hawking)
+#### Where to find:
+At spaceports on planets in The Deep.
+
+#### Requirements:
+Completed Mystery Cubes.
+
+#### Tips:
+None.
+
+
+### Locate Missing Scientists
+#### Where to find:
+
+#### Requirements:
+
+#### Tips:
+
+
+### Secure the Scientists
 #### Where to find:
 
 #### Requirements:
