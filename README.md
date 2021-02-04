@@ -120,7 +120,7 @@ Completed Mystery Cubes, Terminus Exploration, and made first contact with the H
 #### Tips:
 None
 
-## Travel to Valhalla (Remnant: Keystone Research)
+### Travel to Valhalla (Remnant: Keystone Research)
 #### Where to find:
 Spaceports in the Republic, Free Worlds, Syndicate, Neutral, or Independent Factions.
 
