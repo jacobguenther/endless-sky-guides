@@ -1,8 +1,10 @@
 # The Deep Jobs and Missions, Archeaology Missions, and There Might Be Riots
- 
+ ## Or How to Aquire a City Ship License
 A WIP guide I'm working on after being dissatisfied with results on the Internet that had wrong, outdated, or conflicting information on how to obtain a City Ship License. This is accurate for version 0.9.12 and possibly others.
 
 Information in this guide comes directly from the mission files and my own experience.
+
+![Flowchart of missions to aquire the City Ship License](endless-sky-deep-missions-flowchart.png?raw=true "Flowchart")
 
 ## Convoys
 There are 3 convoy missions that require you to escort a convoy across the map and back to The Deep. They can be found in spaceports around the Gomeisa system.
@@ -66,7 +68,7 @@ Land on the planets.
 
 ### Travel to Luna (Mystery Cubes 1)
 #### Where to find:
-Will be offered immediatly after completing part 1.
+Will be offered immediately after completing part 1.
 
 #### Requirements:
 Combat rating of 35 which is slightly higher than rank 3.
@@ -77,7 +79,7 @@ None
 
 ### Blockading the Devil (Mystery Cubes 2)
 #### Where to find:
-On Luna(Sol system). Will be offered immediatly after completing part 1(Travel to Luna).
+On Luna(Sol system). Will be offered immediately after completing part 1(Travel to Luna).
 
 #### Requirements:
 Part 1 is complete.
@@ -88,7 +90,7 @@ Wait for your escorts to arrive in the system before landing you might want them
 
 ### Defend Maelstrom (Mystery Cubes 3)
 #### Where to find:
-Will be offered immediatly after completing part 2(Blockading the Devil).
+Will be offered immediately after completing part 2(Blockading the Devil).
 
 #### Requirements:
 Part 2 is complete.
@@ -97,9 +99,9 @@ Part 2 is complete.
 If you are having trouble with the fight fly away from it and let your escorts deal with it. Land on the planet after the battle.
 
 
-### Rondezvous on Farpoint (Mystery Cubes 4)
+### Rendezvous on Farpoint (Mystery Cubes 4)
 #### Where to find:
-On Maelstrom. Will be offered immediatly after completing part 3(Defend Maelstrom).
+On Maelstrom. Will be offered immediately after completing part 3(Defend Maelstrom).
 
 #### Requirements:
 Part 3 is complete.
